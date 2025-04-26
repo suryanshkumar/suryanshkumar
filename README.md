@@ -10,6 +10,10 @@ My name is Suryansh Kumar. I am an Assistant Professor at Texas A&M University, 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=online-joint-depthfusion-and-semantic&theme=radical" />
 </a>
 
+<a href="https://github.com/suryanshkumar/KLTracker">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=KLTracker&theme=merko" />
+</a>
 
 <a href="https://github.com/suryanshkumar/Line-Segment-Detector">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

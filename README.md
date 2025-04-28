@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE
+### HELLO!
 My name is Suryansh Kumar. I am an Assistant Professor at Texas A&M University, College Station.<br>
 
 [LinkedIn](https://ch.linkedin.com/in/suryanshkumar) [GitHub](https://github.com/suryanshkumar) [Youtube](https://www.youtube.com/c/suryanshkumar)

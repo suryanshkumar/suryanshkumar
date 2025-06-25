@@ -3,8 +3,6 @@ My name is Suryansh Kumar. I am an Assistant Professor at Texas A&M University, 
 
 [LinkedIn](https://ch.linkedin.com/in/suryanshkumar) [GitHub](https://github.com/suryanshkumar) [Youtube](https://www.youtube.com/c/suryanshkumar)
 
-![Suryansh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suryanshkumar&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 <a href="https://github.com/suryanshkumar/online-joint-depthfusion-and-semantic">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=online-joint-depthfusion-and-semantic&theme=radical" />

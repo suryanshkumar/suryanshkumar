@@ -5,7 +5,7 @@ My name is Suryansh Kumar. I am an Assistant Professor at Texas A&M University, 
 
 <a href="https://github.com/suryanshkumar/online-joint-depthfusion-and-semantic">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=online-joint-depthfusion-and-semantic&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=online-joint-depthfusion-and-semantic&theme=dark" />
 </a>
 
 <a href="https://github.com/suryanshkumar/KLTracker">

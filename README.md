@@ -10,12 +10,12 @@ My name is Suryansh Kumar. I am an Assistant Professor at Texas A&M University, 
 
 <a href="https://github.com/suryanshkumar/KLTracker">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=KLTracker&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=KLTracker&theme=dark" />
 </a>
 
 <a href="https://github.com/suryanshkumar/Line-Segment-Detector">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=Line-Segment-Detector&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=Line-Segment-Detector&theme=dark" />
 </a>    
 
 <a href="https://github.com/suryanshkumar/Graph-Segmentation">
@@ -25,10 +25,10 @@ My name is Suryansh Kumar. I am an Assistant Professor at Texas A&M University, 
 
 <a href="https://github.com/suryanshkumar/Structure-from-Motion">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=Structure-from-Motion&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=Structure-from-Motion&theme=dark" />
 </a>    
 
 <a href="https://github.com/suryanshkumar/Non-Rigid-Structure-from-Motion">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=Non-Rigid-Structure-from-Motion&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=suryanshkumar&repo=Non-Rigid-Structure-from-Motion&theme=dark" />
 </a>
